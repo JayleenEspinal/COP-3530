@@ -6,7 +6,7 @@
 */
 import java.util.Arrays;
 
-public class Maximum    {
+public class MethodTester    {
     public static void main(String[] args)  {
         int[] testArray = {-1, 12, -3, 14, -4, 3};
         System.out.println("Maximum sum: " + algorithm1(testArray));
